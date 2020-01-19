@@ -1,0 +1,35 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="192.6817" until-build="192.*"/>
+  <id>sample.lsp.intellij-javascript</id>
+  <name>JavaScript LSP Support</name>
+  <vendor email="asiewe@outlook.de" url="https://github.com/a-siewe">asiewe</vendor>
+  <description>
+    Enter short description for your plugin here.&lt;br&gt;
+    &lt;em&gt;most HTML tags may be used&lt;/em&gt;
+    </description>
+  <extensions defaultExtensionNs="com.intellij">
+    <preloadingActivity implementation="JavaScriptPreloadingActivity" id="JavaScriptPreloadingActivity"/>
+    <completion.contributor implementationClass="org.wso2.lsp4intellij.contributors.LSPCompletionContributor" id="LSPCompletionContributor" language="any"/>
+    <externalAnnotator id="LSPAnnotator" language="TEXT" implementationClass="org.wso2.lsp4intellij.contributors.annotator.LSPAnnotator"/>
+    <gotoSymbolContributor implementation="org.wso2.lsp4intellij.contributors.symbol.LSPSymbolContributor" id="LSPSymbolContributor"/>
+    <renameHandler implementation="org.wso2.lsp4intellij.contributors.rename.LSPRenameHandler" id="LSPRenameHandler" order="first"/>
+    <renamePsiElementProcessor implementation="org.wso2.lsp4intellij.contributors.rename.LSPRenameProcessor" id="LSPRenameProcessor" order="first"/>
+    <typedHandler implementation="org.wso2.lsp4intellij.listeners.LSPTypedHandler" id="LSPTypedHandler"/>
+  </extensions>
+  <application-components>
+    <component>
+      <implementation-class>org.wso2.lsp4intellij.IntellijLanguageClient</implementation-class>
+    </component>
+  </application-components>
+  <actions>
+    <action class="org.wso2.lsp4intellij.actions.LSPReformatAction" id="ReformatCode" use-shortcut-of="ReformatCode" text="Reformat Code"/>
+    <action class="org.wso2.lsp4intellij.actions.LSPShowReformatDialogAction" id="ShowReformatFileDialog" use-shortcut-of="ShowReformatFileDialog" text="Show Reformat File Dialog"/>
+    <action class="org.wso2.lsp4intellij.actions.LSPReferencesAction" id="LSPFindUsages">
+      <keyboard-shortcut first-keystroke="shift alt F7" keymap="$default"/>
+    </action>
+  </actions>
+</idea-plugin>

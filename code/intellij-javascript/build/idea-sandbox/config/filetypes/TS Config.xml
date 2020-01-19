@@ -1,0 +1,18 @@
+<filetype binary="false" description="tsconfig.json" name="TS Config">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+    </options>
+    <keywords ignore_case="false" />
+    <keywords2 />
+    <keywords3 />
+    <keywords4 />
+  </highlighting>
+  <extensionMap>
+    <mapping pattern="tsconfig.json" />
+  </extensionMap>
+</filetype>

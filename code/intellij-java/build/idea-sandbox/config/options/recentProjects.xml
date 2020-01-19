@@ -1,0 +1,55 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/MEGA/HDA/SS19/Abschluss/Workspace/iviews/fixtures/javascript-project" />
+        <option value="$USER_HOME$/MEGA/HDA/SS19/Abschluss/Workspace/iviews/fixtures/java-project" />
+        <option value="$USER_HOME$/MEGA/HDA/SS19/Abschluss/Workspace/iviews/test" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/MEGA/HDA/SS19/Abschluss/Workspace/iviews/fixtures/javascript-project" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/MEGA/HDA/SS19/Abschluss/Workspace/iviews/fixtures/javascript-project" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/MEGA/HDA/SS19/Abschluss/Workspace/iviews/fixtures/java-project">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1573154568834" />
+              <option name="buildTimestamp" value="1569299983416" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MEGA/HDA/SS19/Abschluss/Workspace/iviews/fixtures/javascript-project">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1573305440627" />
+              <option name="buildTimestamp" value="1569299985434" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MEGA/HDA/SS19/Abschluss/Workspace/iviews/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1573154463829" />
+              <option name="buildTimestamp" value="1569299983416" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

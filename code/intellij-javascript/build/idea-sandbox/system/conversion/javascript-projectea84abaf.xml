@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/iviews/fixtures/javascript-project/.idea/javascript-project.iml" timestamp="1573065207660" />
+    <file path="/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/iviews/fixtures/javascript-project/.idea/modules.xml" timestamp="1573065207706" />
+    <file path="/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/iviews/fixtures/javascript-project/.idea/workspace.xml" timestamp="1573304821750" />
+  </project-files>
+</conversion>
+

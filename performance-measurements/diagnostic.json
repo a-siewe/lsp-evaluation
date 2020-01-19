@@ -1,0 +1,1693 @@
+[
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/brushes/base_brush.class.js",
+    "fileStat": {
+      "total": 130,
+      "source": 49,
+      "comment": 66,
+      "single": 0,
+      "block": 66,
+      "mixed": 1,
+      "empty": 16,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690187295,
+      "endTime": 1574690188071
+    },
+    "duration": 245
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/brushes/circle_brush.class.js",
+    "fileStat": {
+      "total": 140,
+      "source": 84,
+      "comment": 37,
+      "single": 0,
+      "block": 37,
+      "mixed": 1,
+      "empty": 20,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690191285,
+      "endTime": 1574690191569
+    },
+    "duration": 284
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/brushes/pattern_brush.class.js",
+    "fileStat": {
+      "total": 59,
+      "source": 35,
+      "comment": 15,
+      "single": 0,
+      "block": 15,
+      "mixed": 1,
+      "empty": 10,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690195287,
+      "endTime": 1574690195513
+    },
+    "duration": 226
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/brushes/pencil_brush.class.js",
+    "fileStat": {
+      "total": 292,
+      "source": 178,
+      "comment": 91,
+      "single": 22,
+      "block": 69,
+      "mixed": 1,
+      "empty": 24,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690199288,
+      "endTime": 1574690199532
+    },
+    "duration": 244
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/brushes/spray_brush.class.js",
+    "fileStat": {
+      "total": 215,
+      "source": 113,
+      "comment": 66,
+      "single": 2,
+      "block": 64,
+      "mixed": 1,
+      "empty": 37,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690203287,
+      "endTime": 1574690203528
+    },
+    "duration": 241
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/canvas.class.js",
+    "fileStat": {
+      "total": 1724,
+      "source": 967,
+      "comment": 583,
+      "single": 51,
+      "block": 532,
+      "mixed": 4,
+      "empty": 178,
+      "todo": 1,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690207292,
+      "endTime": 1574690207648
+    },
+    "duration": 356
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/color.class.js",
+    "fileStat": {
+      "total": 636,
+      "source": 400,
+      "comment": 176,
+      "single": 3,
+      "block": 173,
+      "mixed": 2,
+      "empty": 62,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690211287,
+      "endTime": 1574690211615
+    },
+    "duration": 328
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/elements_parser.js",
+    "fileStat": {
+      "total": 139,
+      "source": 128,
+      "comment": 1,
+      "single": 1,
+      "block": 0,
+      "mixed": 0,
+      "empty": 10,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690215286,
+      "endTime": 1574690215532
+    },
+    "duration": 246
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/2d_backend.class.js",
+    "fileStat": {
+      "total": 65,
+      "source": 36,
+      "comment": 21,
+      "single": 0,
+      "block": 21,
+      "mixed": 1,
+      "empty": 9,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690219283,
+      "endTime": 1574690219524
+    },
+    "duration": 241
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/base_filter.class.js",
+    "fileStat": {
+      "total": 362,
+      "source": 208,
+      "comment": 127,
+      "single": 8,
+      "block": 119,
+      "mixed": 4,
+      "empty": 31,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690223288,
+      "endTime": 1574690223537
+    },
+    "duration": 249
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/blendcolor_filter.class.js",
+    "fileStat": {
+      "total": 245,
+      "source": 150,
+      "comment": 77,
+      "single": 0,
+      "block": 77,
+      "mixed": 1,
+      "empty": 19,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690227287,
+      "endTime": 1574690227529
+    },
+    "duration": 242
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/blendimage_filter.class.js",
+    "fileStat": {
+      "total": 246,
+      "source": 147,
+      "comment": 79,
+      "single": 2,
+      "block": 77,
+      "mixed": 2,
+      "empty": 22,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690231286,
+      "endTime": 1574690231562
+    },
+    "duration": 276
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/blur_filter.class.js",
+    "fileStat": {
+      "total": 215,
+      "source": 130,
+      "comment": 67,
+      "single": 6,
+      "block": 61,
+      "mixed": 1,
+      "empty": 19,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690235287,
+      "endTime": 1574690235523
+    },
+    "duration": 236
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/brightness_filter.class.js",
+    "fileStat": {
+      "total": 113,
+      "source": 42,
+      "comment": 60,
+      "single": 0,
+      "block": 60,
+      "mixed": 1,
+      "empty": 12,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690239287,
+      "endTime": 1574690239515
+    },
+    "duration": 228
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/colormatrix_filter.class.js",
+    "fileStat": {
+      "total": 157,
+      "source": 75,
+      "comment": 69,
+      "single": 1,
+      "block": 68,
+      "mixed": 1,
+      "empty": 14,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690243287,
+      "endTime": 1574690243522
+    },
+    "duration": 235
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/composed_filter.class.js",
+    "fileStat": {
+      "total": 72,
+      "source": 37,
+      "comment": 26,
+      "single": 1,
+      "block": 25,
+      "mixed": 1,
+      "empty": 10,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690247287,
+      "endTime": 1574690247510
+    },
+    "duration": 223
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/contrast_filter.class.js",
+    "fileStat": {
+      "total": 108,
+      "source": 44,
+      "comment": 51,
+      "single": 0,
+      "block": 51,
+      "mixed": 1,
+      "empty": 14,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690251284,
+      "endTime": 1574690251537
+    },
+    "duration": 253
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/convolute_filter.class.js",
+    "fileStat": {
+      "total": 352,
+      "source": 225,
+      "comment": 107,
+      "single": 5,
+      "block": 102,
+      "mixed": 1,
+      "empty": 21,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690255288,
+      "endTime": 1574690255512
+    },
+    "duration": 224
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/filter_boilerplate.js",
+    "fileStat": {
+      "total": 111,
+      "source": 37,
+      "comment": 63,
+      "single": 3,
+      "block": 60,
+      "mixed": 1,
+      "empty": 12,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690259286,
+      "endTime": 1574690259500
+    },
+    "duration": 214
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/filter_generator.js",
+    "fileStat": {
+      "total": 85,
+      "source": 59,
+      "comment": 19,
+      "single": 0,
+      "block": 19,
+      "mixed": 1,
+      "empty": 8,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690263287,
+      "endTime": 1574690263517
+    },
+    "duration": 230
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/gamma_filter.class.js",
+    "fileStat": {
+      "total": 136,
+      "source": 58,
+      "comment": 64,
+      "single": 5,
+      "block": 59,
+      "mixed": 1,
+      "empty": 15,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690267287,
+      "endTime": 1574690267509
+    },
+    "duration": 222
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/grayscale_filter.class.js",
+    "fileStat": {
+      "total": 154,
+      "source": 81,
+      "comment": 59,
+      "single": 1,
+      "block": 58,
+      "mixed": 1,
+      "empty": 15,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690271288,
+      "endTime": 1574690271528
+    },
+    "duration": 240
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/hue_rotation.class.js",
+    "fileStat": {
+      "total": 107,
+      "source": 39,
+      "comment": 57,
+      "single": 0,
+      "block": 57,
+      "mixed": 1,
+      "empty": 12,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690275287,
+      "endTime": 1574690275512
+    },
+    "duration": 225
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/invert_filter.class.js",
+    "fileStat": {
+      "total": 111,
+      "source": 45,
+      "comment": 53,
+      "single": 0,
+      "block": 53,
+      "mixed": 1,
+      "empty": 14,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690279287,
+      "endTime": 1574690279517
+    },
+    "duration": 230
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/noise_filter.class.js",
+    "fileStat": {
+      "total": 134,
+      "source": 56,
+      "comment": 63,
+      "single": 0,
+      "block": 63,
+      "mixed": 1,
+      "empty": 16,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690283287,
+      "endTime": 1574690283521
+    },
+    "duration": 234
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/pixelate_filter.class.js",
+    "fileStat": {
+      "total": 137,
+      "source": 70,
+      "comment": 51,
+      "single": 0,
+      "block": 51,
+      "mixed": 1,
+      "empty": 17,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690287287,
+      "endTime": 1574690287524
+    },
+    "duration": 237
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/removecolor_filter.class.js",
+    "fileStat": {
+      "total": 173,
+      "source": 85,
+      "comment": 71,
+      "single": 0,
+      "block": 71,
+      "mixed": 1,
+      "empty": 18,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690291284,
+      "endTime": 1574690291541
+    },
+    "duration": 257
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/resize_filter.class.js",
+    "fileStat": {
+      "total": 490,
+      "source": 318,
+      "comment": 132,
+      "single": 3,
+      "block": 129,
+      "mixed": 1,
+      "empty": 41,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690295288,
+      "endTime": 1574690295557
+    },
+    "duration": 269
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/saturate_filter.class.js",
+    "fileStat": {
+      "total": 111,
+      "source": 47,
+      "comment": 51,
+      "single": 0,
+      "block": 51,
+      "mixed": 1,
+      "empty": 14,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690299287,
+      "endTime": 1574690299527
+    },
+    "duration": 240
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/filters/webgl_backend.class.js",
+    "fileStat": {
+      "total": 395,
+      "source": 254,
+      "comment": 113,
+      "single": 11,
+      "block": 102,
+      "mixed": 3,
+      "empty": 31,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690303288,
+      "endTime": 1574690303549
+    },
+    "duration": 261
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/globalFabric.js",
+    "fileStat": {
+      "total": 4,
+      "source": 3,
+      "comment": 1,
+      "single": 1,
+      "block": 0,
+      "mixed": 0,
+      "empty": 0,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690307286,
+      "endTime": 1574690307512
+    },
+    "duration": 226
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/gradient.class.js",
+    "fileStat": {
+      "total": 509,
+      "source": 303,
+      "comment": 151,
+      "single": 8,
+      "block": 143,
+      "mixed": 1,
+      "empty": 56,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690311290,
+      "endTime": 1574690311577
+    },
+    "duration": 287
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/intersection.class.js",
+    "fileStat": {
+      "total": 172,
+      "source": 98,
+      "comment": 55,
+      "single": 0,
+      "block": 55,
+      "mixed": 1,
+      "empty": 20,
+      "todo": 2,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690315287,
+      "endTime": 1574690315536
+    },
+    "duration": 249
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/log.js",
+    "fileStat": {
+      "total": 27,
+      "source": 12,
+      "comment": 10,
+      "single": 0,
+      "block": 10,
+      "mixed": 0,
+      "empty": 5,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690319286,
+      "endTime": 1574690319525
+    },
+    "duration": 239
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/animation.mixin.js",
+    "fileStat": {
+      "total": 223,
+      "source": 142,
+      "comment": 60,
+      "single": 0,
+      "block": 60,
+      "mixed": 2,
+      "empty": 23,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690323288,
+      "endTime": 1574690323534
+    },
+    "duration": 246
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/canvas_dataurl_exporter.mixin.js",
+    "fileStat": {
+      "total": 97,
+      "source": 48,
+      "comment": 46,
+      "single": 0,
+      "block": 46,
+      "mixed": 1,
+      "empty": 4,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690327285,
+      "endTime": 1574690327523
+    },
+    "duration": 238
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/canvas_events.mixin.js",
+    "fileStat": {
+      "total": 1088,
+      "source": 707,
+      "comment": 300,
+      "single": 46,
+      "block": 254,
+      "mixed": 10,
+      "empty": 91,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690331292,
+      "endTime": 1574690331598
+    },
+    "duration": 306
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/canvas_gestures.mixin.js",
+    "fileStat": {
+      "total": 167,
+      "source": 93,
+      "comment": 50,
+      "single": 0,
+      "block": 50,
+      "mixed": 1,
+      "empty": 25,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690335287,
+      "endTime": 1574690335526
+    },
+    "duration": 239
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/canvas_grouping.mixin.js",
+    "fileStat": {
+      "total": 172,
+      "source": 116,
+      "comment": 40,
+      "single": 8,
+      "block": 32,
+      "mixed": 1,
+      "empty": 17,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690339287,
+      "endTime": 1574690339531
+    },
+    "duration": 244
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/canvas_serialization.mixin.js",
+    "fileStat": {
+      "total": 247,
+      "source": 135,
+      "comment": 90,
+      "single": 8,
+      "block": 82,
+      "mixed": 1,
+      "empty": 23,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690343287,
+      "endTime": 1574690343544
+    },
+    "duration": 257
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/collection.mixin.js",
+    "fileStat": {
+      "total": 161,
+      "source": 72,
+      "comment": 75,
+      "single": 1,
+      "block": 74,
+      "mixed": 0,
+      "empty": 14,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690347287,
+      "endTime": 1574690347520
+    },
+    "duration": 233
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/itext.svg_export.js",
+    "fileStat": {
+      "total": 241,
+      "source": 178,
+      "comment": 48,
+      "single": 4,
+      "block": 44,
+      "mixed": 1,
+      "empty": 16,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690351288,
+      "endTime": 1574690351564
+    },
+    "duration": 276
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/itext_behavior.mixin.js",
+    "fileStat": {
+      "total": 916,
+      "source": 655,
+      "comment": 181,
+      "single": 23,
+      "block": 158,
+      "mixed": 3,
+      "empty": 83,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690355289,
+      "endTime": 1574690355539
+    },
+    "duration": 250
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/itext_click_behavior.mixin.js",
+    "fileStat": {
+      "total": 253,
+      "source": 171,
+      "comment": 58,
+      "single": 8,
+      "block": 50,
+      "mixed": 1,
+      "empty": 25,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690359287,
+      "endTime": 1574690359517
+    },
+    "duration": 230
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/itext_key_behavior.mixin.js",
+    "fileStat": {
+      "total": 655,
+      "source": 423,
+      "comment": 181,
+      "single": 19,
+      "block": 162,
+      "mixed": 1,
+      "empty": 52,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690363289,
+      "endTime": 1574690363544
+    },
+    "duration": 255
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/object.svg_export.js",
+    "fileStat": {
+      "total": 268,
+      "source": 197,
+      "comment": 55,
+      "single": 3,
+      "block": 52,
+      "mixed": 1,
+      "empty": 17,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690367287,
+      "endTime": 1574690367533
+    },
+    "duration": 246
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/object_geometry.mixin.js",
+    "fileStat": {
+      "total": 660,
+      "source": 367,
+      "comment": 248,
+      "single": 35,
+      "block": 213,
+      "mixed": 2,
+      "empty": 47,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690371291,
+      "endTime": 1574690371574
+    },
+    "duration": 283
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/object_interactivity.mixin.js",
+    "fileStat": {
+      "total": 423,
+      "source": 248,
+      "comment": 124,
+      "single": 22,
+      "block": 102,
+      "mixed": 1,
+      "empty": 52,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690375288,
+      "endTime": 1574690375539
+    },
+    "duration": 251
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/object_origin.mixin.js",
+    "fileStat": {
+      "total": 255,
+      "source": 142,
+      "comment": 81,
+      "single": 7,
+      "block": 74,
+      "mixed": 1,
+      "empty": 33,
+      "todo": 1,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690379287,
+      "endTime": 1574690379531
+    },
+    "duration": 244
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/object_stacking.mixin.js",
+    "fileStat": {
+      "total": 80,
+      "source": 47,
+      "comment": 29,
+      "single": 0,
+      "block": 29,
+      "mixed": 1,
+      "empty": 5,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690383287,
+      "endTime": 1574690383523
+    },
+    "duration": 236
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/object_straightening.mixin.js",
+    "fileStat": {
+      "total": 85,
+      "source": 47,
+      "comment": 31,
+      "single": 0,
+      "block": 31,
+      "mixed": 2,
+      "empty": 9,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690387287,
+      "endTime": 1574690387512
+    },
+    "duration": 225
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/observable.mixin.js",
+    "fileStat": {
+      "total": 127,
+      "source": 74,
+      "comment": 44,
+      "single": 3,
+      "block": 41,
+      "mixed": 0,
+      "empty": 9,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690391284,
+      "endTime": 1574690391535
+    },
+    "duration": 251
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/shared_methods.mixin.js",
+    "fileStat": {
+      "total": 114,
+      "source": 61,
+      "comment": 43,
+      "single": 0,
+      "block": 43,
+      "mixed": 0,
+      "empty": 10,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690395287,
+      "endTime": 1574690395507
+    },
+    "duration": 220
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/stateful.mixin.js",
+    "fileStat": {
+      "total": 105,
+      "source": 76,
+      "comment": 22,
+      "single": 3,
+      "block": 19,
+      "mixed": 1,
+      "empty": 8,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690399287,
+      "endTime": 1574690399523
+    },
+    "duration": 236
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/mixins/text_style.mixin.js",
+    "fileStat": {
+      "total": 324,
+      "source": 194,
+      "comment": 108,
+      "single": 7,
+      "block": 101,
+      "mixed": 1,
+      "empty": 23,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690403288,
+      "endTime": 1574690403541
+    },
+    "duration": 253
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/parser.js",
+    "fileStat": {
+      "total": 1069,
+      "source": 771,
+      "comment": 185,
+      "single": 50,
+      "block": 135,
+      "mixed": 5,
+      "empty": 118,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690407291,
+      "endTime": 1574690407572
+    },
+    "duration": 281
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/pattern.class.js",
+    "fileStat": {
+      "total": 199,
+      "source": 113,
+      "comment": 64,
+      "single": 7,
+      "block": 57,
+      "mixed": 1,
+      "empty": 23,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690411288,
+      "endTime": 1574690411557
+    },
+    "duration": 269
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/point.class.js",
+    "fileStat": {
+      "total": 337,
+      "source": 133,
+      "comment": 166,
+      "single": 0,
+      "block": 166,
+      "mixed": 1,
+      "empty": 40,
+      "todo": 4,
+      "blockEmpty": 1
+    },
+    "executionDuration": {
+      "startTime": 1574690415288,
+      "endTime": 1574690415533
+    },
+    "duration": 245
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shadow.class.js",
+    "fileStat": {
+      "total": 195,
+      "source": 92,
+      "comment": 78,
+      "single": 3,
+      "block": 75,
+      "mixed": 1,
+      "empty": 26,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690419287,
+      "endTime": 1574690419527
+    },
+    "duration": 240
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/active_selection.class.js",
+    "fileStat": {
+      "total": 158,
+      "source": 84,
+      "comment": 60,
+      "single": 0,
+      "block": 60,
+      "mixed": 1,
+      "empty": 15,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690423287,
+      "endTime": 1574690423529
+    },
+    "duration": 242
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/circle.class.js",
+    "fileStat": {
+      "total": 207,
+      "source": 88,
+      "comment": 93,
+      "single": 0,
+      "block": 93,
+      "mixed": 1,
+      "empty": 27,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690427288,
+      "endTime": 1574690427531
+    },
+    "duration": 243
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/ellipse.class.js",
+    "fileStat": {
+      "total": 181,
+      "source": 76,
+      "comment": 82,
+      "single": 0,
+      "block": 82,
+      "mixed": 1,
+      "empty": 24,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690431287,
+      "endTime": 1574690431537
+    },
+    "duration": 250
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/group.class.js",
+    "fileStat": {
+      "total": 593,
+      "source": 342,
+      "comment": 202,
+      "single": 15,
+      "block": 187,
+      "mixed": 1,
+      "empty": 50,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690435289,
+      "endTime": 1574690435532
+    },
+    "duration": 243
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/image.class.js",
+    "fileStat": {
+      "total": 746,
+      "source": 415,
+      "comment": 268,
+      "single": 12,
+      "block": 256,
+      "mixed": 1,
+      "empty": 64,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690439289,
+      "endTime": 1574690439532
+    },
+    "duration": 243
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/itext.class.js",
+    "fileStat": {
+      "total": 508,
+      "source": 240,
+      "comment": 219,
+      "single": 6,
+      "block": 213,
+      "mixed": 2,
+      "empty": 51,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690443289,
+      "endTime": 1574690443531
+    },
+    "duration": 242
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/line.class.js",
+    "fileStat": {
+      "total": 340,
+      "source": 180,
+      "comment": 125,
+      "single": 9,
+      "block": 116,
+      "mixed": 5,
+      "empty": 40,
+      "todo": 1,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690447288,
+      "endTime": 1574690447547
+    },
+    "duration": 259
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/object.class.js",
+    "fileStat": {
+      "total": 2119,
+      "source": 941,
+      "comment": 993,
+      "single": 29,
+      "block": 964,
+      "mixed": 2,
+      "empty": 187,
+      "todo": 1,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690451312,
+      "endTime": 1574690451625
+    },
+    "duration": 313
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/path.class.js",
+    "fileStat": {
+      "total": 913,
+      "source": 659,
+      "comment": 198,
+      "single": 101,
+      "block": 97,
+      "mixed": 51,
+      "empty": 107,
+      "todo": 4,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690455290,
+      "endTime": 1574690455558
+    },
+    "duration": 268
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/polygon.class.js",
+    "fileStat": {
+      "total": 80,
+      "source": 27,
+      "comment": 43,
+      "single": 0,
+      "block": 43,
+      "mixed": 1,
+      "empty": 11,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690459286,
+      "endTime": 1574690459502
+    },
+    "duration": 216
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/polyline.class.js",
+    "fileStat": {
+      "total": 259,
+      "source": 132,
+      "comment": 99,
+      "single": 2,
+      "block": 97,
+      "mixed": 1,
+      "empty": 29,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690463287,
+      "endTime": 1574690463524
+    },
+    "duration": 237
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/rect.class.js",
+    "fileStat": {
+      "total": 206,
+      "source": 93,
+      "comment": 83,
+      "single": 2,
+      "block": 81,
+      "mixed": 1,
+      "empty": 31,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690467287,
+      "endTime": 1574690467523
+    },
+    "duration": 236
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/text.class.js",
+    "fileStat": {
+      "total": 1447,
+      "source": 814,
+      "comment": 518,
+      "single": 26,
+      "block": 492,
+      "mixed": 5,
+      "empty": 120,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690471297,
+      "endTime": 1574690471606
+    },
+    "duration": 309
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/textbox.class.js",
+    "fileStat": {
+      "total": 458,
+      "source": 236,
+      "comment": 179,
+      "single": 13,
+      "block": 166,
+      "mixed": 0,
+      "empty": 43,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690475288,
+      "endTime": 1574690475541
+    },
+    "duration": 253
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/shapes/triangle.class.js",
+    "fileStat": {
+      "total": 108,
+      "source": 49,
+      "comment": 45,
+      "single": 0,
+      "block": 45,
+      "mixed": 1,
+      "empty": 15,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690479287,
+      "endTime": 1574690479507
+    },
+    "duration": 220
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/static_canvas.class.js",
+    "fileStat": {
+      "total": 1876,
+      "source": 930,
+      "comment": 777,
+      "single": 18,
+      "block": 759,
+      "mixed": 6,
+      "empty": 175,
+      "todo": 2,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690483292,
+      "endTime": 1574690483545
+    },
+    "duration": 253
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/anim_ease.js",
+    "fileStat": {
+      "total": 398,
+      "source": 237,
+      "comment": 126,
+      "single": 1,
+      "block": 125,
+      "mixed": 0,
+      "empty": 35,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690487288,
+      "endTime": 1574690487516
+    },
+    "duration": 228
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/animate.js",
+    "fileStat": {
+      "total": 96,
+      "source": 62,
+      "comment": 22,
+      "single": 2,
+      "block": 20,
+      "mixed": 0,
+      "empty": 12,
+      "todo": 1,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690491287,
+      "endTime": 1574690491548
+    },
+    "duration": 261
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/animate_color.js",
+    "fileStat": {
+      "total": 50,
+      "source": 29,
+      "comment": 15,
+      "single": 3,
+      "block": 12,
+      "mixed": 0,
+      "empty": 6,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690495283,
+      "endTime": 1574690495525
+    },
+    "duration": 242
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/arc.js",
+    "fileStat": {
+      "total": 255,
+      "source": 188,
+      "comment": 39,
+      "single": 2,
+      "block": 37,
+      "mixed": 0,
+      "empty": 28,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690499287,
+      "endTime": 1574690499538
+    },
+    "duration": 251
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/dom_event.js",
+    "fileStat": {
+      "total": 45,
+      "source": 25,
+      "comment": 17,
+      "single": 1,
+      "block": 16,
+      "mixed": 0,
+      "empty": 3,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690503286,
+      "endTime": 1574690503528
+    },
+    "duration": 242
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/dom_misc.js",
+    "fileStat": {
+      "total": 321,
+      "source": 207,
+      "comment": 81,
+      "single": 8,
+      "block": 73,
+      "mixed": 1,
+      "empty": 34,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690507287,
+      "endTime": 1574690507525
+    },
+    "duration": 238
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/dom_request.js",
+    "fileStat": {
+      "total": 54,
+      "source": 32,
+      "comment": 12,
+      "single": 0,
+      "block": 12,
+      "mixed": 0,
+      "empty": 10,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690511283,
+      "endTime": 1574690511522
+    },
+    "duration": 239
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/dom_style.js",
+    "fileStat": {
+      "total": 70,
+      "source": 54,
+      "comment": 10,
+      "single": 0,
+      "block": 10,
+      "mixed": 0,
+      "empty": 6,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690515286,
+      "endTime": 1574690515510
+    },
+    "duration": 224
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/lang_array.js",
+    "fileStat": {
+      "total": 94,
+      "source": 55,
+      "comment": 30,
+      "single": 0,
+      "block": 30,
+      "mixed": 0,
+      "empty": 9,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690519287,
+      "endTime": 1574690519525
+    },
+    "duration": 238
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/lang_class.js",
+    "fileStat": {
+      "total": 115,
+      "source": 87,
+      "comment": 10,
+      "single": 2,
+      "block": 8,
+      "mixed": 0,
+      "empty": 18,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690523287,
+      "endTime": 1574690523528
+    },
+    "duration": 241
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/lang_object.js",
+    "fileStat": {
+      "total": 69,
+      "source": 42,
+      "comment": 24,
+      "single": 5,
+      "block": 19,
+      "mixed": 0,
+      "empty": 3,
+      "todo": 1,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690527287,
+      "endTime": 1574690527527
+    },
+    "duration": 240
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/lang_string.js",
+    "fileStat": {
+      "total": 110,
+      "source": 61,
+      "comment": 40,
+      "single": 9,
+      "block": 31,
+      "mixed": 1,
+      "empty": 10,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690531287,
+      "endTime": 1574690531534
+    },
+    "duration": 247
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/misc.js",
+    "fileStat": {
+      "total": 980,
+      "source": 519,
+      "comment": 383,
+      "single": 20,
+      "block": 363,
+      "mixed": 3,
+      "empty": 81,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690535289,
+      "endTime": 1574690535566
+    },
+    "duration": 277
+  },
+  {
+    "file": "/home/asiewe/MEGA/HDA/SS19/Abschluss/Workspace/test/fabric.js/src/util/named_accessors.mixin.js",
+    "fileStat": {
+      "total": 444,
+      "source": 22,
+      "comment": 367,
+      "single": 1,
+      "block": 366,
+      "mixed": 0,
+      "empty": 55,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "executionDuration": {
+      "startTime": 1574690539288,
+      "endTime": 1574690539528
+    },
+    "duration": 240
+  }
+]
