@@ -1,0 +1,35 @@
+{
+  "name": "lsp-benchmark",
+  "version": "1.0.0",
+  "description": "Benchmark for the language server protocol",
+  "main": "out/index.js",
+  "bin": {
+    "lsp-benchmarker": "./out/index.js"
+  },
+  "scripts": {
+    "dev": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "LSP",
+    "Benchmark"
+  ],
+  "author": "Armel Siewe",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "debug": "^4.1.1",
+    "javascript-typescript-langserver": "^2.9.0",
+    "json2csv": "^4.5.4",
+    "sloc": "^0.2.1",
+    "stream": "0.0.2",
+    "vscode-jsonrpc": "^4.0.0",
+    "vscode-languageserver-protocol": "^3.14.1",
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.7",
+    "@types/sloc": "^0.2.0",
+    "@types/yargs": "^13.0.3"
+  }
+}
